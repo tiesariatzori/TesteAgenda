@@ -1,0 +1,71 @@
+body{
+    padding: auto;
+    margin: 0 auto;
+    background-color: rgb(107, 107, 233);
+}
+main{
+    text-align: center;
+    margin: 0 auto;
+}
+h1{
+    margin: 0 auto;
+}
+h3{
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+.cabeca{
+    background-color: black;
+    display: block;
+    width: 0 auto;
+    margin: 0 auto;
+    text-align: center;
+    height: 60px;
+    color: white;
+
+}
+.menu a{
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+    text-transform: uppercase;
+}
+table{
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+table th {
+    border: 1px solid;
+    text-align: center;
+    color: white;
+}
+table td {
+    border: 1px solid white;
+    text-align: justify;
+    padding: 5px;
+    color: white;
+    
+}
+.cadastro a{
+    text-decoration: none;
+    border: 2px solid;
+    display: block;
+     width: 115px;
+     height: 20px;
+     color: white;
+    
+     
+     
+}
+.cadastro{
+   margin: 0 auto;
+   margin-left: 10%;
+
+}
+table a{
+    text-decoration: none;
+    color: white;
+}
